@@ -30,7 +30,6 @@
     "permissions": [
         "*://*.zoom.us/*",
         "storage",
-        "tabs",
         "webRequest",
         "webRequestBlocking"
     ]
