@@ -1,3 +1,11 @@
+# Deprecated
+
+[Statement from Zoom](https://support.zoom.us/hc/en-us/articles/115000538083-Attendee-attention-tracking)
+
+> As of April 2, 2020, we have removed the attendee attention tracker feature as part of our commitment to the security and privacy of our customers. For more background on this change and how we are pivoting during these unprecedented times, please see a note from our CEO, Eric S. Yuan.
+
+As such, this extension is now deprecated. For all users, thank you for your support.
+
 # zoom-spoofer
 Simple extension to spoof Zoom's 'attendee attention tracking' system in their web-based client
 
